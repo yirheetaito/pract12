@@ -1,0 +1,2 @@
+# pract12
+funciones 
